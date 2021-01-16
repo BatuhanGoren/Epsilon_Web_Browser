@@ -1,0 +1,12 @@
+C:\Users\batuh\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\Users\batuh\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\batuh\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\batuh\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csprojAssemblyReference.cache
+C:\Users\batuh\source\repos\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Users\batuh\source\repos\Web Browser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\batuh\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+C:\Users\batuh\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\Users\batuh\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+C:\Users\batuh\source\repos\Web Browser\Web Browser\obj\Debug\Web_Browser.Form2.resources
+C:\Users\batuh\source\repos\Web Browser\Web Browser\obj\Debug\Web_Browser.Form3.resources
